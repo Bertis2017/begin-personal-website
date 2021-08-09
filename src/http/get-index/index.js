@@ -7,21 +7,21 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', // ←  Start by adding your name!
-    title: 'My personal site!',
-    occupation: 'Artist & Photographer',
-    location: 'West Glacier, MT',
-    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
+    fullname: 'Bertis Mauricio Alas Hernandez', // ←  Start by adding your name!
+    title: 'Online Marketing!',
+    occupation: 'Online Marketing-Entrepreneur',
+    location: 'USA, MT',
+    bio: 'Entrepreneur and creative. Digital Marketing and transportation logistic.',
 
     /**
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
-    email: 'your@email.com',
-    twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
-    instagram: 'yourInsta',
-    facebook: 'your-facebook-name',
+    email: 'marketingenterprise2021@gmail.com',
+    twitter: 'https://mobile.twitter.com/AlasBertis',
+    linkedin: 'https://www.linkedin.com/in/bertis-',
+    instagram: 'https://www.instagram.com/misheard2021/',
+    facebook: 'https://www.facebook.com/profile.php?id=100009619814662',
 
     /**
      * Layout
