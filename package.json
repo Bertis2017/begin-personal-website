@@ -1,0 +1,34 @@
+{
+  "arc": {
+    "app": "personal-site",
+    "http": [
+      [
+        "get",
+        "/"
+      ]
+    ],
+    "tables": [
+      {
+        "data": {
+          "scopeID": "*String",
+          "dataID": "**String",
+          "ttl": "TTL"
+        }
+      }
+    ]
+  },
+  "name": "begin-app",
+  "version": "0.0.0",
+  "description": "Basic Begin personal website",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^8.4.10",
+    "@architect/sandbox": "",
+    "@begin/data": "^1.2.3"
+  },
+  "dependencies": {
+    "@architect/functions": "^3.13.9"
+  }
+}
